@@ -6,10 +6,10 @@ This project demonstrates an end-to-end security investigation within a self-hos
 ---
 
 ## Phase 1: Infrastructure & Data Engineering
-To simulate an enterprise SOC environment, I provisioned a Splunk SIEM on Ubuntu and manually injested over 300,000 events from the BOTS v3 dataset to practice real-world threat hunting.
+To simulate an enterprise SOC environment, I provisioned a Splunk SIEM on Ubuntu and manually ingested over 300,000 events from the BOTS v3 dataset to practice real-world threat hunting.
 
 * **SIEM Deployment:** Installed Splunk Enterprise via the command line on Ubuntu 24.04.
-* **Data Lifecycle:** Ingected 300,000+ events from the BOTS v3 dataset, configuring indexes and sourcetypes for forensic accuracy.
+* **Data Lifecycle:** Ingested 300,000+ events from the BOTS v3 dataset, configuring indexes and sourcetypes for forensic accuracy.
 
 | System Build | Data Ingestion |
 | :--- | :--- |

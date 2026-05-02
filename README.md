@@ -1,4 +1,5 @@
 # Splunk SIEM Lab: BOTS v3 Incident Investigation
+>**Update**: This was my first SOC investigation project. For a more advanced investigation of the BOTSv3 dataset with full framework mappings (MITRE ATT&CK, NIST CSF, CIS Controls v8) and comprehensive query documentation, see [Splunk-SIEM-Lab-v2](https://github.com/umujalloh/Splunk-SIEM-Lab-v2)
 
 ## Project Overview
 This project demonstrates an end-to-end security investigation within a self-hosted SIEM environment. I deployed Splunk Enterprise on an Ubuntu 24.04 LTS server to ingest, analyze, and visualize a simulated Advanced Persistent Threat (APT) attack from the Boss of the SOC (BOTS) v3 dataset. 
